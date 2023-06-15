@@ -3,6 +3,8 @@
 ### Introduction
 Welcome to the Calculator GUI program! This user manual will guide you on how to use the calculator effectively.
 
+
+![](output.png)
 ### Features
 The calculator provides the following features:
 - Input field to enter numbers and operators
